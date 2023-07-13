@@ -6,4 +6,5 @@
  *
  */
 module demo_dao_jbc {
+	requires java.sql;
 }
